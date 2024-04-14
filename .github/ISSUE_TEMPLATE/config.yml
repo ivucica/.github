@@ -1,0 +1,9 @@
+# https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests/configuring-issue-templates-for-your-repository#configuring-the-template-chooser
+blank_issues_enabled: false
+contact_links:
+  - name: Fediverse profile
+    url: https://vucica.net/users/ivan
+    about: If you need to reach out directly, my email address matches my Fediverse account name.
+  - name: Site
+    url: https://ivan.vucica.net/
+    about: My website has more info, too.
