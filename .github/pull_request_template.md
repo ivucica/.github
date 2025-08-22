@@ -52,6 +52,14 @@ Most of the [Udacity style guide](https://udacity.github.io/git-styleguide/)
 for Git is a good idea, but it is not a gospel (and specifying what is changed
 is, for my work, slightly preferable over the type).
 
+Remove or mark with `[X]`:
+
+- [ ] My pull request adheres to the code style of this project
+- [ ] I have updated the documentation or there is no reasonable need to do so
+- [ ] If project has tests: existing tests are passing, new tests have been
+    added and are passing, tests have not been removed without a pressing need
+    (simple "it does not work" is not a sufficient reason to remove a test)
+
 [On-behalf-of]: https://docs.github.com/en/pull-requests/committing-changes-to-your-project/creating-and-editing-commits/creating-a-commit-on-behalf-of-an-organization
 [Co-authored-by]: https://docs.github.com/en/pull-requests/committing-changes-to-your-project/creating-and-editing-commits/creating-a-commit-with-multiple-authors
 [interpretable]: https://git-scm.com/docs/git-interpret-trailers
