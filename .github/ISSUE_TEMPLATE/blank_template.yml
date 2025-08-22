@@ -1,0 +1,13 @@
+# from https://www.freecodecamp.org/news/how-to-use-the-dot-github-repository/
+
+name: 🗋Blank Template
+description: Use only if no other template applies.
+title: ""
+labels: []
+assignees: ["ivucica"]
+body:
+  - type: textarea
+    id: bug-description
+    attributes:
+      label: Description of the issue
+      description: Give a brief description of the feature or enhancement you would like
